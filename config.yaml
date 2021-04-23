@@ -1,3 +1,7 @@
 wowlinks:
-  'gh': 'https://github.com'
-  'goo': 'https://google.com'
+  "amzn": "https://amazon.com"
+  "msft": "https://onedrive.live.com"
+  "gh": "https://github.com"
+  "goo": "https://google.com"
+  "wow": "https://github.com/wowlink"
+  "q": "https://www.quora.com"
