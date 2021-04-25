@@ -1,4 +1,5 @@
 wowlinks:
+  "aapl": "https://www.apple.com"
   "amzn": "https://amazon.com"
   "msft": "https://onedrive.live.com"
   "gh": "https://github.com"
@@ -6,3 +7,4 @@ wowlinks:
   "wow": "https://github.com/wowlink"
   "q": "https://www.quora.com"
   "yt": "https://www.youtube.com"
+  "mdum": "https://medium.com"
